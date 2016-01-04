@@ -1,4 +1,4 @@
-*DISLAIMER: The code for these games is bad, I wrote it in high school.  The final results are fairly decent though.*
+*DISLAIMER: The code for these games is bad.  I wrote it in high school.  The final results are fairly decent though.*
 
 Flash
 =====
